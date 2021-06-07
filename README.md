@@ -31,7 +31,7 @@ Build Something Awesome
 * Must have User Input Validation
 
 ## Installing:
-Simple follow our live link to get to the page: https://qhampton.github.io/project-1/
+Simple follow our live link to get to the page: https://bltarkany.github.io/movoggle/
 
 ## Built With: 
 * Utelly - API used to find out where the material is streamed 
